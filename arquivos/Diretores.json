@@ -1,0 +1,30 @@
+{
+    "directors" :  
+    { 
+        "id": 1,
+        "name": "Christopher Nolan",
+        "birthday": 30071970,
+        "movies": [
+            {
+            "id": 1,
+            "name": "Interestelar",
+            "releaseDate": 16112014
+            },
+            {
+            "id": 2,
+            "name": "A Origem",
+            "releaseDate": 16082010
+            },
+            {
+            "id": 3,
+            "name": "Dunkirk",
+            "releaseDate": 27072017
+            },
+            {
+            "id": 4,
+            "name": "Insomnia",
+            "releaseDate": 16082002
+            }    
+        ]
+    }
+}
